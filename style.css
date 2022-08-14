@@ -337,3 +337,117 @@ footer [alt="brand-logo"] {
 .footer-card li {
   list-style: none;
 }
+
+@media screen and (max-width:1240px) and (min-width:820px) {
+
+     .emp-photo{
+      width: 78%;
+     }
+
+     .emp-card p{
+      width: 72%;
+     }
+
+    .intro-image
+     {
+      width: 119%;
+      object-fit: contain;
+     }
+
+     .text-container{
+      margin-left: 11%;
+      margin-right: 0;
+     }
+
+     .xlg{
+      font-size: 3.5vw;
+     }
+
+     .md{
+      font-size: 1.8vw;
+     }
+
+     .lg{
+      font-size: 3vw;
+     }
+}
+
+@media screen and (max-width:819px) and (min-width:500px) {
+
+  .intro-card{
+    display: flex;
+    flex-direction: column;
+    gap:5%;
+  }
+  .button {
+    margin-bottom:  4%;
+  }
+
+  .achivements {
+    flex-direction: column;
+    margin-top: 4%;
+  }
+
+  .achivement{
+    margin-top: 4%;
+  }
+
+  .emp-cards {
+    flex-direction: column;
+    margin-top: 8%;
+    align-items: center;
+    width: 100%;
+  }
+
+  .emp-card{
+    margin-top: 8%;
+  }
+
+  .emp-content {
+    flex-direction: column;
+  }
+
+  .best-emp-subtitle {
+    
+    margin-top: 6%;
+  }
+
+  .best-emp-title {
+    width: 100%;
+    font-size: 5vw;
+}
+  
+  .hero-section{
+    flex-direction: column;
+  }
+
+  .main-nav{
+    display: none;
+  }
+
+  .intro-image{
+    width: 90%;
+
+  }
+
+  .footer-card{
+    flex-basis: 30%;
+    align-items: stretch;
+    margin-top: 5%;
+  }
+
+  .footer-cards{
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap:1.5rem
+    
+  }
+
+  p.best-emp-subtitle.text-gray.md {
+    width: 105%;
+  }
+
+ 
+  
+
+}
