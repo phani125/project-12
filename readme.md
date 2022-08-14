@@ -1,3 +1,3 @@
 # Project -12
-![Desktop view](./screenshots/Desktop.png)
+![Desktop view](./Desktop.png)
 
