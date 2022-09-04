@@ -400,7 +400,7 @@ footer [alt="brand-logo"] {
   }
 }
 
-@media screen and (max-width:839px) and (min-width:500px) {
+@media screen and (max-width:839px) and (min-width:380px) {
 
   .hero-image{
     width: 100%;
