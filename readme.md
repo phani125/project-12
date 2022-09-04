@@ -1,6 +1,10 @@
 
 # This a Buisiness Page
 
+## Deployed Link
+
+![project-link](https://phani-sai-project-12.netlify.app/)
+
 ## Preview:
 
 ![Desktop view](./Desktop.png)
