@@ -3,7 +3,7 @@
 
 ## Deployed Link
 
-![project-link](https://phani-sai-project-12.netlify.app/)
+[project-link](https://phani-sai-project-12.netlify.app/)
 
 ## Preview:
 
