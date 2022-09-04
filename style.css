@@ -338,7 +338,7 @@ footer [alt="brand-logo"] {
   list-style: none;
 }
 
-@media screen and (max-width:1240px) and (min-width:820px) {
+@media screen and (max-width:1240px) and (min-width:840px) {
 
   .hero-image{
     width: 100%;
@@ -400,10 +400,14 @@ footer [alt="brand-logo"] {
   }
 }
 
-@media screen and (max-width:819px) and (min-width:500px) {
+@media screen and (max-width:839px) and (min-width:500px) {
 
   .hero-image{
     width: 100%;
+  }
+  
+  .main-nav{
+  display: none;
   }
 
   .intro-card{
