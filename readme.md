@@ -1,5 +1,5 @@
 
-# This a Buisiness Page
+# This is a Buisiness Page
 
 ## Deployed Link
 
